@@ -1,6 +1,6 @@
 # 🤖 GhostDev654 - WaBot
 
-Un bot de WhatsApp inteligente y personalizable, basado en [Baileys](https://github.com/Ado21/Baileys), con soporte para **subbots**, comandos dinámicos, sistema de admins, bans, reproducción de música y mucho más.
+Un bot de WhatsApp inteligente y personalizable, basado en [Baileys](https://github.com/Ado21/Bly), con soporte para **subbots**, comandos dinámicos, sistema de admins, bans, reproducción de música y mucho más.
 
 > ⚠️ Proyecto desarrollado por `ghostdev` para uso educativo y personal. No se permite la venta, redistribución ni el uso comercial sin autorización.
 
