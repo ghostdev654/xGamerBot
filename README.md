@@ -1,2 +1,75 @@
-# xGamerBot
-👋 ¡𝙃𝙤𝙡𝙖! 𝘽𝙞𝙚𝙣𝙫𝙚𝙣𝙞𝙙𝙤/𝙖 𝙖𝙡 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙤 𝙤𝙛𝙞𝙘𝙞𝙖𝙡 𝙙𝙚 𝙭 𝙂𝙖𝙢𝙚𝙧 𝘽𝙤𝙩. 𝘼𝙦𝙪í 𝙚𝙣𝙘𝙤𝙣𝙩𝙧𝙖𝙧á𝙨 𝙪𝙣 𝙢𝙤𝙙𝙚𝙡𝙤 𝙨𝙞𝙢𝙞𝙡𝙖𝙧 𝙙𝙚 𝙢𝙪𝙚𝙨𝙩𝙧𝙖 𝙙𝙚 𝙘ó𝙢𝙤 𝙚𝙨 𝙡𝙖 𝙚𝙨𝙩𝙧𝙪𝙘𝙪𝙧𝙖 𝙮 𝙚𝙡 𝙘ó𝙙𝙞𝙜𝙤 𝙙𝙚𝙡 𝘽𝙤𝙩. 𝘾𝙖𝙙𝙖 𝙖𝙧𝙘𝙝𝙞𝙫𝙤 𝙩𝙚𝙣𝙙𝙧á 𝙨𝙪 𝙧𝙚𝙨𝙥𝙚𝙘𝙩𝙞𝙫𝙖 𝙚𝙭𝙥𝙡𝙞𝙘𝙖𝙘𝙞on
+# 🤖 GhostDev654 - WaBot
+
+Un bot de WhatsApp inteligente y personalizable, basado en [Baileys](https://github.com/Ado21/Baileys), con soporte para **subbots**, comandos dinámicos, sistema de admins, bans, reproducción de música y mucho más.
+
+> ⚠️ Proyecto desarrollado por `ghostdev` para uso educativo y personal. No se permite la venta, redistribución ni el uso comercial sin autorización.
+
+---
+
+## 📦 Características
+
+- 🚀 Soporte para múltiples subbots (hasta 85+ sessions activas)
+- 📂 Plugins modulares y comandos personalizables
+- 📵 Sistema de ban y anti-spam avanzado
+- 🛡️ Sistema de admins, autoadmin, roles y verificación
+- 📻 Comandos multimedia (Spotify, YouTube, etc.)
+- 🔐 Compatible con canales y seguimiento silencioso
+- 🌎 Base de datos en SQLite
+- ❇️ Con estructura commonJS
+
+
+---
+
+🧠 Uso del bot
+
+Los comandos se escriben con un prefijo (. por defecto)
+
+Podés personalizar los prefijos por subbot
+
+Los subbots se almacenan en ./subbots, cada uno con su propia sesión (./subbots/123456789 for example)
+
+
+
+---
+
+🔑 Comandos útiles
+
+.autoadmin – Te da admin automáticamente
+
+.ban, .unban – Control de usuarios
+
+.antispam on/off – Activa/desactiva el modo antispam
+
+.spotify <url> – Descarga canciones desde Spotify
+
+.code <número> – Verifica si un número existe en WhatsApp
+
+
+
+---
+
+👑 Créditos
+
+Código base: Baileys
+
+API de música: Neoxr API
+
+Desarrollo y custom: ghostdev
+
+
+
+---
+
+📜 Licencia
+
+Este proyecto es de uso personal. Si vas a publicarlo, da créditos y respeta el trabajo de los demás.
+Prohibido el uso con fines comerciales sin autorización del autor.
+
+
+---
+
+🗿 ¿Dudas o mejoras?
+
+Abrí un issue o contactame por [WhatsApp](https://wa.me/5491151545427) si sos parte del equipo de desarrollo.
+
+> "Los bots no duermen, pero yo sí. Así que no rompas a las 4 AM." – ghostdev
